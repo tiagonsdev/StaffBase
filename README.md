@@ -31,7 +31,6 @@ O **StaffBase** é um sistema voltado à gestão de funcionários, projetado par
 ## 👨‍💻 Time de Desenvolvedores
 
 - Tiago (Desenvolvedor Full Stack)
-- [Inclua os demais nomes do grupo, se houver]
 
 ---
 
